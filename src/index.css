@@ -1,3 +1,4 @@
+/* flashcards CSS */
 * {
   box-sizing: border-box;
 }
@@ -27,8 +28,9 @@ body {
 }
 
 div.selected {
-  border: 1px solid #e03131;
-  background-color: #e03131;
+  border: 1px solid #3157e0;
+  background-color: #3168e0;
   color: #fff;
   font-weight: bold;
 }
+/* flashcards CSS */
