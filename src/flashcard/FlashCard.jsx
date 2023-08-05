@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "./flashcard.css";
 
 const FlashCard = () => {
   const [selectedId, setSelectedId] = useState(null);
